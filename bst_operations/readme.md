@@ -15,7 +15,8 @@ The next Q lines are of the form **i x** or **d x**
 For each query, print the position of x in the BST
 
 If the position of a node is p, the positions of its left and right children are 2*p and 2*p+1 respectively
-Position of the root node is 1
+
+Position of the root node is 1.
 
 # Test data
 
